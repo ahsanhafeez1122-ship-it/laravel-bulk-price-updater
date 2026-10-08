@@ -1,4 +1,4 @@
-﻿{
+{
     "$schema": "https://getcomposer.org/schema.json",
     "name": "ahsanhafeez/laravel-bulk-price-updater",
     "type": "project",
